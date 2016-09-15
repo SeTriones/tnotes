@@ -1,0 +1,2 @@
+# tnotes
+my tech notes.
